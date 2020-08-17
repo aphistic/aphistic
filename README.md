@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hey! I'm Kristin!
 
-<!--
-**aphistic/aphistic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love coding and learning/experiencing new things! I'm a huge geek, nerd, 👩‍💻, etc and love
+everything about it! I'm most interested in moving bits around at the lowest levels, whether
+they're over networks or a system bus.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About me:
+- 😄 Pronouns: she/her
+- 💜 Favorite languages: Rust, Go, C#, Python
+- 💻 Exciting tech: Kubernetes, RISC-V, FPGAs, WASM
+- 🌱 Learning: Embedded Rust, RISC-V, FPGAs
+- 🤔 Intrigued by: [Pony](https://www.ponylang.io/), [Crystal](https://crystal-lang.org/), WASM
+- 💬 Ask me about: Anything! I love mentoring people 👩‍🏫, especially when it's a topic I'm
+  passionate about (though I am a total introvert so sometimes I need some down time).
+- 📫 Contact me: Twitter ([@aphistic](https://twitter.com/aphistic))
+- 📖 My blog: <https://me.kxd.dev>
