@@ -4,7 +4,7 @@ I love coding and learning/experiencing new things! I'm a huge geek, nerd, 👩�
 everything about it! I'm most interested in moving bits around at the lowest levels, whether
 they're over networks or a system bus.
 
-About me:
+### About me:
 - 😄 Pronouns: she/her
 - 💜 Favorite languages: Rust, Go, C#, Python
 - 💻 Exciting tech: Kubernetes, RISC-V, FPGAs, WASM
