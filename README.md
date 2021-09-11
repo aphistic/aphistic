@@ -9,7 +9,7 @@ they're over networks or a system bus.
 - 💜 Favorite languages: Rust, Go, C#, Python
 - 💻 Exciting tech: Kubernetes, RISC-V, FPGAs, WASM
 - 🌱 Learning: Embedded Rust, RISC-V, FPGAs
-- 🤔 Intrigued by: [Pony](https://www.ponylang.io/), [Crystal](https://crystal-lang.org/), WASM
+- 🤔 Intrigued by: [Pony](https://www.ponylang.io/), [Crystal](https://crystal-lang.org/), [WASM](https://webassembly.org/)/[WASI](https://wasi.dev/)
 - 💬 Ask me about: Anything! I love mentoring people 👩‍🏫, especially when it's a topic I'm
   passionate about (though I am a total introvert so sometimes I need some down time). Please contact me if you have questions about anything I might be able to help with!
 - 📫 Contact me: Twitter ([@aphistic](https://twitter.com/aphistic))
