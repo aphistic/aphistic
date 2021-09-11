@@ -11,6 +11,6 @@ they're over networks or a system bus.
 - 🌱 Learning: Embedded Rust, RISC-V, FPGAs
 - 🤔 Intrigued by: [Pony](https://www.ponylang.io/), [Crystal](https://crystal-lang.org/), WASM
 - 💬 Ask me about: Anything! I love mentoring people 👩‍🏫, especially when it's a topic I'm
-  passionate about (though I am a total introvert so sometimes I need some down time).
+  passionate about (though I am a total introvert so sometimes I need some down time). Please contact me if you have questions about anything I might be able to help with!
 - 📫 Contact me: Twitter ([@aphistic](https://twitter.com/aphistic))
 - 📖 My blog: <https://me.kxd.dev>
